@@ -1,5 +1,5 @@
 # Oximetro
-Projeto criado para o curso de Sistemas Biomédicos. <br/> 
+Projeto criado para o curso de Sistemas Biomédicos, FATEC - Ribeirão Preto - SP - BRASIL. <br/> 
 Disciplina: Analise de Sinais. <br/>
 Prof orientador: Prof. Especialista Raphael Pinheiro <br/> 
 
